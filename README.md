@@ -26,7 +26,7 @@ int main() {
     std::cout << std::endl;
     return 0;
 }
-
+```
 ## 🛠️ Compilation & Usage
 bash
 # Compile
